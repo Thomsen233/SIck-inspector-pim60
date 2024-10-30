@@ -33,7 +33,14 @@ Transmissionshastighed	100 Mbit/s
 
 ## Vores projekt
 Vores projekt omhandler at finder en allankey på et fladoverflade og skulle kunne genkende forskellen på størlse og form af nøglen
-
+### Guide 
+1. Man starter programmet SOPAS enginering tool
+2. først finder man kammeret herefter logger vi in på selve kammeraet med koden Inspector.
+3. Derefter trykker man på edit for at komme ud af run så man kan indstille kammeraet.
+4. Så skal man i image setting og trykke på auto for at kalibrere billedet
+5. derefter skal vi gemme et referance objekt det gør vi ved at ligge vores objekt ind foran kammeraet og trykke på teach referance objekt
+6. Så bruger funktionen objekt lokater og maker hele allan keyen på skærmen
+7. Så bruger vi funktion distance 
 
 
 
