@@ -45,7 +45,8 @@ Vores projekt omhandler at finder en allankey på et fladoverflade og skulle kun
 9. Så vælger vi pixel counter under tools, der ændre vi på intesity range indtil hele skaftet er makeret markant gul.
 10. efter det skal vi ændre på resolve and tolerances for at ændre om vores objekt skal være failed eller passed
    
-![Medier](https://github.com/user-attachments/assets/30a933a7-50cb-4001-a829-49089ddf14c2)
+
+![file](https://github.com/user-attachments/assets/292c364c-c01d-40be-9254-8b8cd1b61d2e)
 
 
 
