@@ -48,6 +48,6 @@ Vores projekt omhandler at finder en allankey på et fladoverflade og skulle kun
 
 
 
-<img src="https://github.com/user-attachments/assets/d59bd1bf-6e2f-4312-994f-6dfaa295d42d" width="400">
+<img src="https://github.com/user-attachments/assets/d59bd1bf-6e2f-4312-994f-6dfaa295d42d" width="300">
 
 
