@@ -39,8 +39,13 @@ Vores projekt omhandler at finder en allankey på et fladoverflade og skulle kun
 3. Derefter trykker man på edit for at komme ud af run så man kan indstille kammeraet.
 4. Så skal man i image setting og trykke på auto for at kalibrere billedet
 5. derefter skal vi gemme et referance objekt det gør vi ved at ligge vores objekt ind foran kammeraet og trykke på teach referance objekt
-6. Så bruger funktionen objekt lokater og maker hele allan keyen på skærmen
-7. Så bruger vi funktion distance 
+6. Så bruger funktionen objekt lokater og maker toppen af allan keyen på skærmen
+7. Så bruger vi funktionen pixel counter for at makere hvor langt skaftet er på allan keyen
+8. I menuen til højre under tools skal vi makere objekt lokater, så ændre vi på egde contrast indtil vi har mekeret hele vejden rundt til toppen allan keyen
+9. Så vælger vi pixel counter under tools, der ændre vi på intesity range indtil hele skaftet er makeret markant gul.
+10. efter det skal vi ændre på resolve and tolerances for at ændre om vores objekt skal være failed eller passed
+11. ![Medier](https://github.com/user-attachments/assets/ea447a66-b840-43d9-bd88-184035c3845e)
+
 
 
 
