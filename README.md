@@ -46,8 +46,9 @@ Vores projekt omhandler at finder en allankey på et fladoverflade og skulle kun
 10. efter det skal vi ændre på resolve and tolerances for at ændre om vores objekt skal være failed eller passed
    
 
-![file](https://github.com/user-attachments/assets/292c364c-c01d-40be-9254-8b8cd1b61d2e)
 
 
+
+![Medier](https://github.com/user-attachments/assets/d59bd1bf-6e2f-4312-994f-6dfaa295d42d) | width=100)
 
 
