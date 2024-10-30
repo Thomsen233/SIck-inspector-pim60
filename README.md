@@ -32,7 +32,7 @@ Transmissionshastighed	100 Mbit/s
 4 defineret inputs
 
 ## Vores projekt
-vores projekt omhandler at finder en allankey på et fladoverflade og skulle kunne genkende forskellen på størlse og form af nøglen
+Vores projekt omhandler at finder en allankey på et fladoverflade og skulle kunne genkende forskellen på størlse og form af nøglen
 
 
 
