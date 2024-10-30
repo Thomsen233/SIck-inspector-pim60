@@ -44,7 +44,8 @@ Vores projekt omhandler at finder en allankey på et fladoverflade og skulle kun
 8. I menuen til højre under tools skal vi makere objekt lokater, så ændre vi på egde contrast indtil vi har mekeret hele vejden rundt til toppen allan keyen
 9. Så vælger vi pixel counter under tools, der ændre vi på intesity range indtil hele skaftet er makeret markant gul.
 10. efter det skal vi ændre på resolve and tolerances for at ændre om vores objekt skal være failed eller passed
-11. ![Medier](https://github.com/user-attachments/assets/ea447a33-b410-43d9-bd44-184035c3845e)
+   
+![Medier](https://github.com/user-attachments/assets/30a933a7-50cb-4001-a829-49089ddf14c2)
 
 
 
